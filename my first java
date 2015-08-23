@@ -1,6 +1,5 @@
 public class Test {
     public static void main(String[] args) {
-        // ¹þ¹þ¹þ£¬¶¥¶¥¶¥
         System.out.println("Hello world,github !");
     }
 }
